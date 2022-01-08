@@ -36,5 +36,5 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-096&show_icons=true&locale=en&layout=compact" alt="furkan-096" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-096&show_icons=true&locale=en" alt="furkan-096" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-096&" alt="furkan-096" /></p>
+
 
