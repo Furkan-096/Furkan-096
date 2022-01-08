@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Html,Css,Javascript,React,NodeJS,Flutter,Swift**
+- 🌱 I’m currently learning **Html,Css,Javascript,React,NodeJS,Flutter,Swift. I am also interested in cyber security and artificial intelligence.**
 
 - 💬 Ask me about **Html,Css,Javascript**
 
