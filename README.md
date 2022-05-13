@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Unity,Html,Css,Javascript,React,NodeJS,React Native,Flutter,Swift. I am also interested in cyber security and artificial intelligence.**
+- 🌱 I’m currently learning **Unity, Html, Css, Javascript, React, NodeJS, React Native, Flutter, Swift. I am also interested in cyber security and artificial intelligence.**
 
 - 💬 Ask me about **Html,Css,Javascript**
 
